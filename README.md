@@ -1,10 +1,11 @@
-###
+<!-- Banner -->
+<p align="center">
+  <img src="https://github.com/Jhoncito07/Jhoncito07/blob/main/assets/Banner%20de%20github%20Jhoncito07.gif" alt="Banner de Jhon Jairo"/>
+</p>
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo."  />
+---
 
-###
-
-# 👋 Hola, soy Jhon Jairo
+# 👋 Hola, soy Jhon Jairo y soy de Ecuador
 
 🎓 Estudiante de **Ingeniería en Sistemas de la Información** en la [Universidad de Guayaquil](https://www.ug.edu.ec/)  
 📊 Enfocado en **Análisis de Datos** y proyectos de **Ciencia de Datos**  
@@ -40,20 +41,50 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=tokyonight&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=tokyonight&hide_border=true)
+  <img src="https://github-readme-stats.vercel.app/api?username=Jhoncito07&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="stats graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhoncito07&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph"/>
+</div>
 
+---
+
+## ⚡ Lenguajes & Frameworks
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp"/>
 </div>
 
 ---
 
 ## 🌍 Conéctate conmigo
-- 💼 [LinkedIn](https://linkedin.com/in/TU-LINKEDIN)  
-- 🐦 [Twitter](https://twitter.com/TU-USUARIO)  
-- 📧 **tunombre@correo.com**  
+<div align="center">
+  <a href="https://youtube.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" height="35"/>
+  </a>
+  <a href="https://instagram.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35"/>
+  </a>
+  <a href="https://twitch.tv/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&style=for-the-badge" height="35"/>
+  </a>
+  <a href="https://discord.gg/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="35"/>
+  </a>
+  <a href="mailto:jhoncontrera07@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35"/>
+  </a>
+  <a href="https://linkedin.com/in/TU-LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35"/>
+  </a>
+</div>
 
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation"/>
+</p>
+
 ⭐ *Si te interesa colaborar en proyectos de Data Science o BI, ¡contáctame!*
-----------------------------------------------------------------------
