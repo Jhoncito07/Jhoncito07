@@ -4,16 +4,20 @@
 </p>
 
 ---
+<div align="center" style="border: 2px solid #00ADB5; border-radius: 15px; padding: 15px; background-color: #222831; color: #EEEEEE;">
+  <h3>🚀 Contenedor Personalizado</h3>
+  <p>Este texto está dentro de un contenedor con estilos.</p>
+</div>
 
 # 👋 Hola, soy Jhon Jairo y soy de Ecuador
 
-🎓 Estudiante de **Ingeniería en Sistemas de la Información** en la [Universidad de Guayaquil](https://www.ug.edu.ec/)  
-📊 Enfocado en **Análisis de Datos** y proyectos de **Ciencia de Datos**  
-💡 Mi frase: *"Lo que hice ayer, lo mejoro hoy para evolucionar mañana."*  
+- 🎓 Estudiante de **Ingeniería en Sistemas de la Información** en la [Universidad de Guayaquil](https://www.ug.edu.ec/)  
+- 📊 Enfocado en **Análisis de Datos** y proyectos de **Ciencia de Datos**  
+- 💡 Mi frase: *"Lo que hice ayer, lo mejoro hoy para evolucionar mañana."*  
 
 ---
 
-## 🚀 Sobre mí
+## 📌 Sobre mí
 - 🌱 Actualmente aprendiendo **Python para Ciencia de Datos**, **SQL** y **Power BI**  
 - 📚 Becado en **Alura Latam** en el área de **Data Science**  
 - 🎯 Interés en proyectos de **Business Intelligence**, **Machine Learning** y **Visualización de Datos**  
@@ -24,67 +28,99 @@
 ## 🛠️ Tecnologías y Herramientas
 
 ### Lenguajes y Bases de Datos
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=fff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
+<div align="left">
+  <!-- Python -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
+  <!-- SQL / MySQL -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql" />
+  <!-- JavaScript -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
+</div>
 
 ### Herramientas de Análisis
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=000)
-![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoftexcel&logoColor=fff)
+<div align="left">
+  <!-- Power BI -->
+  <img src="https://img.icons8.com/color/48/power-bi.png" height="40" alt="powerbi"/>
+  <!-- Excel -->
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" height="40" alt="excel"/>
+  
 
 ### Otros
+
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff)
-![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=fff)
-
----
-
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jhoncito07&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="stats graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhoncito07&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph"/>
+<div align="left"> 
+  <!-- Word -->
+  <img src="https://img.icons8.com/color/48/microsoft-word-2019--v2.png" height="40" alt="word"/>
+  <!-- PowerPoint -->
+  <img src="https://img.icons8.com/color/48/microsoft-powerpoint-2019--v1.png" height="40" alt="powerpoint"/>
+  <!-- Canva -->
+  <img src="https://img.icons8.com/color/48/canva.png" height="40" alt="canva"/>
+  <!-- GitHub -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github" />
 </div>
 
 ---
 
-## ⚡ Lenguajes & Frameworks
+## 🌟 Habilidades Blandas
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp"/>
+
+![Trabajo en equipo](https://img.shields.io/badge/Trabajo%20en%20equipo-4CAF50?style=for-the-badge)
+![Creatividad](https://img.shields.io/badge/Creatividad-F44336?style=for-the-badge)
+![Comunicación](https://img.shields.io/badge/Comunicación-2196F3?style=for-the-badge)
+![Liderazgo](https://img.shields.io/badge/Liderazgo-FFC107?style=for-the-badge)
+![Organización](https://img.shields.io/badge/Organización-9C27B0?style=for-the-badge)
+![Aprendizaje](https://img.shields.io/badge/Aprendizaje-FF5722?style=for-the-badge)
+
+</div>
+
+---
+
+## 🚀 Proyectos Destacados
+
+<div align="center">
+
+  <!-- Card 1 -->
+  <div style="display: inline-block; width: 300px; margin: 10px; border-radius: 15px; padding: 15px; background: #1e1e1e; color: #fff; box-shadow: 0 4px 8px rgba(0,0,0,0.3);">
+    <h3>📊 Análisis de Datos</h3>
+    <p>Exploración y visualización de datos usando Python y Power BI.</p>
+    <a href="https://github.com/Jhoncito07/proyecto1" target="_blank">
+      🔗 Ver repositorio
+    </a>
+  </div>
+
+  <!-- Card 2 -->
+  <div style="display: inline-block; width: 300px; margin: 10px; border-radius: 15px; padding: 15px; background: #1e1e1e; color: #fff; box-shadow: 0 4px 8px rgba(0,0,0,0.3);">
+    <h3>🤖 Proyecto de IA</h3>
+    <p>Modelo de machine learning para predecir la retención de clientes.</p>
+    <a href="https://github.com/Jhoncito07/proyecto2" target="_blank">
+      🔗 Ver repositorio
+    </a>
+  </div>
+
+  <!-- Card 3 -->
+  <div style="display: inline-block; width: 300px; margin: 10px; border-radius: 15px; padding: 15px; background: #1e1e1e; color: #fff; box-shadow: 0 4px 8px rgba(0,0,0,0.3);">
+    <h3>📡 Dashboard Interactivo</h3>
+    <p>Visualización dinámica de métricas en Power BI.</p>
+    <a href="https://github.com/Jhoncito07/proyecto3" target="_blank">
+      🔗 Ver repositorio
+    </a>
+  </div>
+
 </div>
 
 ---
 
 ## 🌍 Conéctate conmigo
-<div align="center">
-  <a href="https://youtube.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" height="35"/>
-  </a>
-  <a href="https://instagram.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35"/>
-  </a>
-  <a href="https://twitch.tv/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&style=for-the-badge" height="35"/>
-  </a>
-  <a href="https://discord.gg/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="35"/>
-  </a>
-  <a href="mailto:jhoncontrera07@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35"/>
-  </a>
-  <a href="https://linkedin.com/in/TU-LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35"/>
-  </a>
-</div>
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/TU_USUARIO)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/TU_USUARIO)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/TU_USUARIO)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@TU_CANAL)
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/TU_CANAL)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/TU_INVITE)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TU_CORREO@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU_USUARIO)
 
 ---
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation"/>
-</p>
-
-⭐ *Si te interesa colaborar en proyectos de Data Science o BI, ¡contáctame!*
+>⭐ *Apasionado por la tecnología, el aprendizaje constante y la innovación.*
