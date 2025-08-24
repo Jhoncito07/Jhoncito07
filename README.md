@@ -1,19 +1,12 @@
+<div align="center" style="border: 2px solid #00ADB5; border-radius: 15px; padding: 15px; background-color: #222831; color: #EEEEEE;">
+  <h1 style="border-bottom: none;">👋 Hola, soy Jhon Jairo y soy de Ecuador</h1>
+  <p>Se bienvenido a mi espacio en GitHub (👍 ͡• ᴥ ͡•)👍</p>
+</div>
+
 <!-- Banner -->
 <p align="center">
   <img src="https://github.com/Jhoncito07/Jhoncito07/blob/main/assets/Banner%20de%20github%20Jhoncito07.gif" alt="Banner de Jhon Jairo"/>
 </p>
-
----
-<div align="center" style="border: 2px solid #00ADB5; border-radius: 15px; padding: 15px; background-color: #222831; color: #EEEEEE;">
-  <h3>🚀 Contenedor Personalizado</h3>
-  <p>Este texto está dentro de un contenedor con estilos.</p>
-</div>
-
-# 👋 Hola, soy Jhon Jairo y soy de Ecuador
-
-- 🎓 Estudiante de **Ingeniería en Sistemas de la Información** en la [Universidad de Guayaquil](https://www.ug.edu.ec/)  
-- 📊 Enfocado en **Análisis de Datos** y proyectos de **Ciencia de Datos**  
-- 💡 Mi frase: *"Lo que hice ayer, lo mejoro hoy para evolucionar mañana."*  
 
 ---
 
@@ -21,7 +14,10 @@
 - 🌱 Actualmente aprendiendo **Python para Ciencia de Datos**, **SQL** y **Power BI**  
 - 📚 Becado en **Alura Latam** en el área de **Data Science**  
 - 🎯 Interés en proyectos de **Business Intelligence**, **Machine Learning** y **Visualización de Datos**  
-- 🎮 En mi tiempo libre disfruto de **anime, videojuegos, música y crear proyectos personales con IA**  
+- 🎮 En mi tiempo libre disfruto de **anime, videojuegos, música y crear proyectos personales con IA**
+- 🎓 Estudiante de **Ingeniería en Sistemas de la Información** en la [Universidad de Guayaquil](https://www.ug.edu.ec/)  
+- 📊 Enfocado en **Análisis de Datos** y proyectos de **Ciencia de Datos**  
+- 💡 Mi frase: *"Lo que hice ayer, lo mejoro hoy para evolucionar mañana."*
 
 ---
 
