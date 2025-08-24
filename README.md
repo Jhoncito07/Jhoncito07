@@ -10,8 +10,6 @@
 
 ---
 
-![snake animation](https://github.com/Jhoncito07/Jhoncito07/blob/output/github-contribution-grid-snake2.svg)
-
 ## 📌 Sobre mí
 - 🌱 Actualmente aprendiendo **Python para Ciencia de Datos**, **SQL** y **Power BI**  
 - 📚 Becado en **Alura Latam** en el área de **Data Science**  
