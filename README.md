@@ -119,4 +119,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU_USUARIO)
 
 ---
+
+![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/Jhoncito07/Jhoncito07/blob/output/github-contribution-grid-snake2.svg)
+
+
 >⭐ *Apasionado por la tecnología, el aprendizaje constante y la innovación.*
